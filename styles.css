@@ -1,0 +1,18 @@
+html {
+  margin: 1em;
+  text-align: center;
+  font-family: Menlo, monospace;
+}
+
+table {
+  margin: 0 auto;
+  padding: 3vw;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: .25em 1em;
+}
